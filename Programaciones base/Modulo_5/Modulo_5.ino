@@ -36,7 +36,7 @@ Motor motor2 = Motor(BIN1, BIN2, PWMB, offsetB, STBY,5000 ,8,2 );
 
 void setup() {
   Serial.begin(115200); // Iniciar el monitor serial
-  PS4.begin("08:d1:f9:89:ab:de"); // Dirección MAC, de la ESP32
+  PS4.begin("08:d1:f9:89:ab:de"); // Dirección MAC de la ESP32, con ayuda del programa. 
   Serial.println("Ready."); 
 }
 
