@@ -58,22 +58,28 @@ Nombre | GPIO
 VCC | 5VDC a 12VDC
 VSS | GND
 
-### Motores de lanzador (M1 & M2)
+### Motores de movimiento (M1 & M2)
 Nombre | Motor |GPIO 
 --- | --- | --- 
-AIN_1 | M1 | 32
-AIN_2 | M1 | 33
-BIN_1 | M2 | 25
-BIN_2 | M2 | 26
+AIN_1 | motor1 | 18
+AIN_2 | motor2 | 5
+PWMA  | motorA | 15
+BIN_1 | motor1 | 27
+BIN_2 | motor2 | 14
+PWMB  | motorB | 2
 
-### Motores de movimiento (M3 & M4)
+
+
+### Motores de disparador (M3 & M4)
 
 Nombre | Motor |GPIO 
 --- | --- | --- 
-AIN_1 | M3 | 18
-AIN_2 | M3 | 4
-BIN_1 | M4 | 27
-BIN_2 | M4 | 14
+AIN_11 | motor 3 | 32
+AIN_22 | motor 3 | 33
+PWMA1  | motorA  | 12
+BIN_11 | motor 4 | 25
+BIN_22 | motor 4 | 26
+PWMB1  | motorB  | 13
 
 ## Manejo de motores
 Es muy importante que puedas comprender el manejo de los motores realizando un control digital binario (HIGH y LOW) y un control con PWM (valores entre 0 - 255).
