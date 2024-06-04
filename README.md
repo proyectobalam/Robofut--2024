@@ -50,6 +50,12 @@ Puede seguir está guía para la instalación como una segunda opción
 
 [DRIVER_CH340]: https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all#drivers-if-you-need-them
 
+<div>
+    <div align=center>
+        <img src="https://github.com/proyectobalam/robofut2024/blob/main/_DSC5055.jpg" alt="Robofut 2024">
+    </div>
+</div>
+
 ## Pinout
 
 ### Voltaje de alimentación
