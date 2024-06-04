@@ -73,6 +73,6 @@ Para comprender mejor el tema es recomendable que puedas revisar la hoja de dato
 
 ## Recomendaciones
 
-1. Cuando tu tarjeta ESP32 esta conectada a la computadora apaga el switch de encendido de la placa de tu robofut.
-2. Si tu motores pierden fuerza, recarga la baterias.
-
+1. Si tu tarjeta ESP32 esta conectada a la computadora apaga el switch de encendido de la placa de tu robofut para no dañarla. 
+2. Cuando pongás en acción tu RoboFut recuerda tener cargadas tu baterias para un mejor funcionamiento.
+3. Revisa tus conexiones siempre antes de programar.
