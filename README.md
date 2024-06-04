@@ -3,7 +3,7 @@
 
 <div>
     <div align=center>
-        <img src="https://github.com/proyectobalam/robofut2024/blob/main/_DSC5055.jpg" alt="Robofut 2024" height="1000">
+        <img src="https://github.com/proyectobalam/robofut2024/blob/main/_DSC5055.jpg" alt="Robofut 2024" height="600" width="600">
     </div>
 </div>
 
