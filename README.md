@@ -76,5 +76,8 @@ Para comprender mejor el tema es recomendable que puedas revisar la hoja de dato
 1. Si tu tarjeta ESP32 esta conectada a la computadora apaga el switch de encendido de la placa de tu robofut para no dañarla. 
 2. Cuando pongás en acción tu RoboFut recuerda tener cargadas tu baterias para un mejor funcionamiento.
 3. Revisa tus conexiones siempre antes de programar.
-
+<div>
+    <div align=center>
 **¡Te animamos a mejorar las programaciones base! Libera toda tu imaginación y creatividad para lograr el máximo rendimiento de tu RoboFut. ¡Sabemos que puedes hacerlo!**
+    </div>
+</div>
