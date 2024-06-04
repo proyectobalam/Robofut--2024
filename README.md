@@ -78,6 +78,6 @@ Para comprender mejor el tema es recomendable que puedas revisar la hoja de dato
 3. Revisa tus conexiones siempre antes de programar.
 <div>
     <div align=center>
-**¡Te animamos a mejorar las programaciones base! Libera toda tu imaginación y creatividad para lograr el máximo rendimiento de tu RoboFut. ¡Sabemos que puedes hacerlo!**
+ 	<strong>¡Te animamos a mejorar las programaciones base! Libera toda tu imaginación y creatividad para lograr el máximo rendimiento de tu RoboFut. ¡Sabemos que puedes hacerlo!**</strong>
     </div>
 </div>
