@@ -3,7 +3,7 @@
 
 <div>
     <div align=center>
-        <img src="https://github.com/proyectobalam/robofut2024/blob/main/_DSC5055.jpg" alt="Robofut 2024">
+        <img src="https://github.com/proyectobalam/robofut2024/blob/main/Imagenes/_DSC5055.jpg" alt="Robofut 2024">
     </div>
 </div>
 
@@ -52,7 +52,7 @@ Puede seguir está guía para la instalación como una segunda opción
 
 <div>
     <div align=center>
-        <img src="https://github.com/proyectobalam/robofut2024/blob/main/_DSC5055.jpg" alt="Robofut 2024">
+        <img src="https://github.com/proyectobalam/robofut2024/blob/main/Imagenes/_DSC5092.jpg" alt="Robofut 2024">
     </div>
 </div>
 
@@ -74,8 +74,6 @@ BIN_1 | motor1 | 27
 BIN_2 | motor2 | 14
 PWMB  | motorB | 2
 
-
-
 ### Motores de disparador (M3 & M4)
 
 Nombre | Motor |GPIO 
@@ -94,3 +92,8 @@ Para comprender mejor el tema es recomendable que puedas revisar la hoja de dato
 
 **Recuerda que la libreria la puedes encontrar en la parte de arriba junto a las programaciones de ejemplo**
 
+<div>
+    <div align=center>
+        <img src="https://github.com/proyectobalam/robofut2024/blob/main/Imagenes/_DSC5059.jpg" alt="Robofut 2024">
+    </div>
+</div>
