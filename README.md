@@ -63,7 +63,7 @@ Es muy importante que puedas comprender el manejo de los motores realizando un c
 
 Para comprender mejor el tema es recomendable que puedas revisar la hoja de datos de Sparkfun que es el fabricante del módulo TB6612FNG.
 
-**Recuerda que la libreria la puedes encontrar en la parte de arriba junto a las programaciones de ejemplo**.
+**Recuerda que la libreria "TB6612FNG" la puedes encontrar en la parte de arriba junto a las programaciones de ejemplo**.
 
 <div>
     <div align=center>
