@@ -70,3 +70,9 @@ Para comprender mejor el tema es recomendable que puedas revisar la hoja de dato
         <img src="https://github.com/proyectobalam/robofut2024/blob/main/Imagenes/_DSC5059.jpg" alt="Robofut 2024">
     </div>
 </div>
+
+## Recomendaciones
+
+1. Cuando tu tarjeta ESP32 esta conectada a la computadora apaga el switch de encendido de la placa de tu robofut.
+2. Si tu motores pierden fuerza, recarga la baterias.
+
