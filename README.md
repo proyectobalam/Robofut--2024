@@ -91,6 +91,14 @@ Para comprender mejor el tema es recomendable que puedas revisar la hoja de dato
 
 **Recuerda que la libreria "TB6612FNG" la puedes encontrar en la parte de arriba en la carpeta "Librerias"**.
 
+## Control 
+Si deseamos utilizar un mando de PS4 es fundamental configurarlo con la Mac de nuestra tarjeta ESP32, para conocer esta MAC tenemos un código base para poder conocerla.
+
+En el siguiente link encontrás el programa para actualizarle la MAC que debe buscar el control para poder conectarse con tu ESP32.
+
+Link: https://drive.google.com/file/d/1Wk8Bpc0_g7CyR7qsg66rEnvJ_Y3gb378/view
+
+
 <div>
     <div align=center>
         <img src="https://github.com/proyectobalam/robofut2024/blob/main/Imagenes/_DSC5059.jpg" alt="Robofut 2024">
